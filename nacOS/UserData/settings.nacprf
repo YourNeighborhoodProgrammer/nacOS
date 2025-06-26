@@ -1,0 +1,6 @@
+secure_boot=yes
+auto_update_nacos=no
+lock_device_with_authentication=no
+login_type=password
+lockdown_software=no
+setup=no
